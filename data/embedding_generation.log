@@ -1,0 +1,178 @@
+2025-05-24 14:10:27,083 - INFO - Starting unified embedding generation process
+2025-05-24 14:10:27,084 - INFO - No valid existing content file found
+2025-05-24 14:10:27,084 - INFO - Stage 1: Scraping content from URLs
+2025-05-24 14:10:27,084 - INFO - Loaded 39 URLs from C:\projects\gemini\clean_url_list.txt
+2025-05-24 14:10:27,084 - INFO - Processing URL 1/39: https://dejan.ai/blog/gemini-system-prompt/
+2025-05-24 14:10:28,368 - INFO - Processing URL 2/39: https://dejan.ai/blog/how-gemini-selects-results/
+2025-05-24 14:10:29,396 - INFO - Processing URL 3/39: https://dejan.ai/blog/search-query-quality-classifier/
+2025-05-24 14:10:30,430 - INFO - Processing URL 4/39: https://dejan.ai/blog/query-intent-via-retrieval-augmentation-and-model-distillation/
+2025-05-24 14:10:31,479 - INFO - Processing URL 5/39: https://dejan.ai/blog/resource-efficient-binary-vector-embeddings-with-matryoshka-representation-learning/
+2025-05-24 14:10:32,519 - INFO - Processing URL 6/39: https://dejan.ai/blog/ilo/
+2025-05-24 14:10:33,575 - INFO - Processing URL 7/39: https://dejan.ai/blog/the-state-of-ai/
+2025-05-24 14:10:34,636 - INFO - Processing URL 8/39: https://dejan.ai/blog/attention-is-all-you-need/
+2025-05-24 14:10:35,676 - INFO - Processing URL 9/39: https://dejan.ai/blog/chrome-ai-models/
+2025-05-24 14:10:36,705 - INFO - Processing URL 10/39: https://dejan.ai/blog/random-numbers/
+2025-05-24 14:10:37,743 - INFO - Processing URL 11/39: https://dejan.ai/blog/transitions/
+2025-05-24 14:10:38,825 - INFO - Processing URL 12/39: https://dejan.ai/blog/site-engagement-metrics/
+2025-05-24 14:10:39,876 - INFO - Processing URL 13/39: https://dejan.ai/blog/introducing-veczip-embedding-compression-algorithm/
+2025-05-24 14:10:40,920 - INFO - Processing URL 14/39: https://dejan.ai/blog/why-deep-learning-works/
+2025-05-24 14:10:41,969 - INFO - Processing URL 15/39: https://dejan.ai/blog/googles-privacy-sandbox-navigating-the-cookieless-future/
+2025-05-24 14:10:43,525 - INFO - Processing URL 16/39: https://dejan.ai/blog/what-does-gemini-think-about-your-brand/
+2025-05-24 14:10:44,575 - INFO - Processing URL 17/39: https://dejan.ai/blog/self-supervised-quantized-representation-for-kg-llm-integration/
+2025-05-24 14:10:45,608 - INFO - Processing URL 18/39: https://dejan.ai/blog/teaching-ai-models-to-be-better-search-engines-a-new-approach-to-training-data/
+2025-05-24 14:10:46,649 - INFO - Processing URL 19/39: https://dejan.ai/blog/beyond-rank-tracking-analyzing-brand-perceptions-through-language-model-association-networks/
+2025-05-24 14:10:47,702 - INFO - Processing URL 20/39: https://dejan.ai/blog/hacking-gemini/
+2025-05-24 14:10:48,744 - INFO - Processing URL 21/39: https://dejan.ai/blog/the-next-chapter-of-search-get-ready-to-influence-the-robots/
+2025-05-24 14:10:49,785 - INFO - Processing URL 22/39: https://dejan.ai/blog/alexnet-the-deep-learning-breakthrough-that-reshaped-googles-ai-strategy/
+2025-05-24 14:10:50,813 - INFO - Processing URL 23/39: https://dejan.ai/blog/strategic-brand-positioning-in-llms-a-methodological-framework-for-prompt-engineering-and-model-behavior-analysis/
+2025-05-24 14:10:51,859 - INFO - Processing URL 24/39: https://dejan.ai/blog/neural-circuit-analysis-framework-for-brand-mention-optimization/
+2025-05-24 14:10:52,930 - INFO - Processing URL 25/39: https://dejan.ai/blog/cross-model-circuit-analysis-gemini-vs-gemma-comparison-framework/
+2025-05-24 14:10:53,994 - INFO - Processing URL 26/39: https://dejan.ai/blog/how-google-decides-when-to-use-gemini-grounding-for-user-queries/
+2025-05-24 14:10:55,046 - INFO - Processing URL 27/39: https://dejan.ai/blog/probability-threshold-for-top-p-nucleus-sampling/
+2025-05-24 14:10:56,092 - INFO - Processing URL 28/39: https://dejan.ai/blog/temperature-parameter-for-controlling-ai-randomness/
+2025-05-24 14:10:57,135 - INFO - Processing URL 29/39: https://dejan.ai/blog/advanced-interpretability-techniques-for-tracing-llm-activations/
+2025-05-24 14:10:58,678 - INFO - Processing URL 30/39: https://dejan.ai/blog/grounding-classifier/
+2025-05-24 14:10:59,708 - INFO - Processing URL 31/39: https://dejan.ai/blog/generate-then-ground/
+2025-05-24 14:11:00,781 - INFO - Processing URL 32/39: https://dejan.ai/blog/ai-content-detection/
+2025-05-24 14:11:01,835 - INFO - Processing URL 33/39: https://dejan.ai/blog/chromes-new-embedding-model/
+2025-05-24 14:11:02,911 - INFO - Processing URL 34/39: https://dejan.ai/blog/content-substance-classification/
+2025-05-24 14:11:04,018 - INFO - Processing URL 35/39: https://dejan.ai/blog/gemini-grounding/
+2025-05-24 14:11:05,152 - INFO - Processing URL 36/39: https://dejan.ai/blog/google-lens-modes/
+2025-05-24 14:11:06,192 - INFO - Processing URL 37/39: https://dejan.ai/blog/llm-search-volume/
+2025-05-24 14:11:07,233 - INFO - Processing URL 38/39: https://dejan.ai/blog/googles-new-url-context-tool/
+2025-05-24 14:11:08,282 - INFO - Processing URL 39/39: https://dejan.ai/blog/live-blog-hacking-gemini-embeddings/
+2025-05-24 14:11:09,312 - INFO - Successfully saved content for 39 URLs to C:\projects\gemini\content.csv
+2025-05-24 14:11:09,312 - INFO - Stage 2: Generating embeddings
+2025-05-24 14:11:09,312 - INFO - Generating Gemini embeddings
+2025-05-24 14:11:10,067 - INFO - Generating Gemini embedding for URL 1/39: https://dejan.ai/blog/gemini-system-prompt/
+2025-05-24 14:11:11,046 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:12,061 - INFO - Generating Gemini embedding for URL 2/39: https://dejan.ai/blog/how-gemini-selects-results/
+2025-05-24 14:11:12,808 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:13,822 - INFO - Generating Gemini embedding for URL 3/39: https://dejan.ai/blog/search-query-quality-classifier/
+2025-05-24 14:11:14,560 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:15,573 - INFO - Generating Gemini embedding for URL 4/39: https://dejan.ai/blog/query-intent-via-retrieval-augmentation-and-model-distillation/
+2025-05-24 14:11:16,335 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:17,349 - INFO - Generating Gemini embedding for URL 5/39: https://dejan.ai/blog/resource-efficient-binary-vector-embeddings-with-matryoshka-representation-learning/
+2025-05-24 14:11:18,068 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:19,082 - INFO - Generating Gemini embedding for URL 6/39: https://dejan.ai/blog/ilo/
+2025-05-24 14:11:19,861 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:20,874 - INFO - Generating Gemini embedding for URL 7/39: https://dejan.ai/blog/the-state-of-ai/
+2025-05-24 14:11:21,773 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:22,786 - INFO - Generating Gemini embedding for URL 8/39: https://dejan.ai/blog/attention-is-all-you-need/
+2025-05-24 14:11:23,544 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:24,557 - INFO - Generating Gemini embedding for URL 9/39: https://dejan.ai/blog/chrome-ai-models/
+2025-05-24 14:11:25,329 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:26,343 - INFO - Generating Gemini embedding for URL 10/39: https://dejan.ai/blog/random-numbers/
+2025-05-24 14:11:27,062 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:28,076 - INFO - Generating Gemini embedding for URL 11/39: https://dejan.ai/blog/transitions/
+2025-05-24 14:11:28,879 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:29,903 - INFO - Generating Gemini embedding for URL 12/39: https://dejan.ai/blog/site-engagement-metrics/
+2025-05-24 14:11:30,717 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:31,731 - INFO - Generating Gemini embedding for URL 13/39: https://dejan.ai/blog/introducing-veczip-embedding-compression-algorithm/
+2025-05-24 14:11:32,471 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:33,485 - INFO - Generating Gemini embedding for URL 14/39: https://dejan.ai/blog/why-deep-learning-works/
+2025-05-24 14:11:34,216 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:35,230 - INFO - Generating Gemini embedding for URL 15/39: https://dejan.ai/blog/googles-privacy-sandbox-navigating-the-cookieless-future/
+2025-05-24 14:11:36,045 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:37,058 - INFO - Generating Gemini embedding for URL 16/39: https://dejan.ai/blog/what-does-gemini-think-about-your-brand/
+2025-05-24 14:11:37,782 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:38,795 - INFO - Generating Gemini embedding for URL 17/39: https://dejan.ai/blog/self-supervised-quantized-representation-for-kg-llm-integration/
+2025-05-24 14:11:39,535 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:40,548 - INFO - Generating Gemini embedding for URL 18/39: https://dejan.ai/blog/teaching-ai-models-to-be-better-search-engines-a-new-approach-to-training-data/
+2025-05-24 14:11:41,312 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:42,326 - INFO - Generating Gemini embedding for URL 19/39: https://dejan.ai/blog/beyond-rank-tracking-analyzing-brand-perceptions-through-language-model-association-networks/
+2025-05-24 14:11:43,098 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:44,111 - INFO - Generating Gemini embedding for URL 20/39: https://dejan.ai/blog/hacking-gemini/
+2025-05-24 14:11:44,938 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:45,956 - INFO - Generating Gemini embedding for URL 21/39: https://dejan.ai/blog/the-next-chapter-of-search-get-ready-to-influence-the-robots/
+2025-05-24 14:11:46,739 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:47,753 - INFO - Generating Gemini embedding for URL 22/39: https://dejan.ai/blog/alexnet-the-deep-learning-breakthrough-that-reshaped-googles-ai-strategy/
+2025-05-24 14:11:48,474 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:49,487 - INFO - Generating Gemini embedding for URL 23/39: https://dejan.ai/blog/strategic-brand-positioning-in-llms-a-methodological-framework-for-prompt-engineering-and-model-behavior-analysis/
+2025-05-24 14:11:50,256 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:51,266 - INFO - Generating Gemini embedding for URL 24/39: https://dejan.ai/blog/neural-circuit-analysis-framework-for-brand-mention-optimization/
+2025-05-24 14:11:52,085 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:53,098 - INFO - Generating Gemini embedding for URL 25/39: https://dejan.ai/blog/cross-model-circuit-analysis-gemini-vs-gemma-comparison-framework/
+2025-05-24 14:11:53,891 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:54,906 - INFO - Generating Gemini embedding for URL 26/39: https://dejan.ai/blog/how-google-decides-when-to-use-gemini-grounding-for-user-queries/
+2025-05-24 14:11:55,628 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:56,641 - INFO - Generating Gemini embedding for URL 27/39: https://dejan.ai/blog/probability-threshold-for-top-p-nucleus-sampling/
+2025-05-24 14:11:57,360 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:11:58,373 - INFO - Generating Gemini embedding for URL 28/39: https://dejan.ai/blog/temperature-parameter-for-controlling-ai-randomness/
+2025-05-24 14:11:59,098 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:00,112 - INFO - Generating Gemini embedding for URL 29/39: https://dejan.ai/blog/advanced-interpretability-techniques-for-tracing-llm-activations/
+2025-05-24 14:12:01,068 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:02,082 - INFO - Generating Gemini embedding for URL 30/39: https://dejan.ai/blog/grounding-classifier/
+2025-05-24 14:12:02,889 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:03,902 - INFO - Generating Gemini embedding for URL 31/39: https://dejan.ai/blog/generate-then-ground/
+2025-05-24 14:12:04,883 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:05,897 - INFO - Generating Gemini embedding for URL 32/39: https://dejan.ai/blog/ai-content-detection/
+2025-05-24 14:12:06,611 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:07,624 - INFO - Generating Gemini embedding for URL 33/39: https://dejan.ai/blog/chromes-new-embedding-model/
+2025-05-24 14:12:08,561 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:09,574 - INFO - Generating Gemini embedding for URL 34/39: https://dejan.ai/blog/content-substance-classification/
+2025-05-24 14:12:10,290 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:11,303 - INFO - Generating Gemini embedding for URL 35/39: https://dejan.ai/blog/gemini-grounding/
+2025-05-24 14:12:12,308 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:13,321 - INFO - Generating Gemini embedding for URL 36/39: https://dejan.ai/blog/google-lens-modes/
+2025-05-24 14:12:14,058 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:15,072 - INFO - Generating Gemini embedding for URL 37/39: https://dejan.ai/blog/llm-search-volume/
+2025-05-24 14:12:15,807 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:16,820 - INFO - Generating Gemini embedding for URL 38/39: https://dejan.ai/blog/googles-new-url-context-tool/
+2025-05-24 14:12:17,647 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:18,662 - INFO - Generating Gemini embedding for URL 39/39: https://dejan.ai/blog/live-blog-hacking-gemini-embeddings/
+2025-05-24 14:12:19,398 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-exp-03-07:batchEmbedContents "HTTP/1.1 200 OK"
+2025-05-24 14:12:20,456 - INFO - Successfully saved Gemini embeddings for 39 URLs to C:\projects\gemini\gemini.csv
+2025-05-24 14:12:20,456 - INFO - Generating MxbAI embeddings
+2025-05-24 14:12:35,348 - INFO - PyTorch version 2.5.1+cu121 available.
+2025-05-24 14:12:35,357 - INFO - Polars version 1.2.1 available.
+2025-05-24 14:12:35,369 - INFO - JAX version 0.4.30 available.
+2025-05-24 14:12:36,337 - INFO - Loading MxbAI Embed Large v1 model...
+2025-05-24 14:12:36,337 - INFO - Use pytorch device_name: cuda
+2025-05-24 14:12:36,337 - INFO - Load pretrained SentenceTransformer: mixedbread-ai/mxbai-embed-large-v1
+2025-05-24 14:12:39,588 - INFO - 2 prompts are loaded, with the keys: ['query', 'passage']
+2025-05-24 14:12:39,588 - INFO - Model loaded successfully
+2025-05-24 14:12:39,588 - INFO - Generating MxbAI embedding for URL 1/39: https://dejan.ai/blog/gemini-system-prompt/
+2025-05-24 14:12:40,236 - INFO - Generating MxbAI embedding for URL 2/39: https://dejan.ai/blog/how-gemini-selects-results/
+2025-05-24 14:12:40,752 - INFO - Generating MxbAI embedding for URL 3/39: https://dejan.ai/blog/search-query-quality-classifier/
+2025-05-24 14:12:41,284 - INFO - Generating MxbAI embedding for URL 4/39: https://dejan.ai/blog/query-intent-via-retrieval-augmentation-and-model-distillation/
+2025-05-24 14:12:41,829 - INFO - Generating MxbAI embedding for URL 5/39: https://dejan.ai/blog/resource-efficient-binary-vector-embeddings-with-matryoshka-representation-learning/
+2025-05-24 14:12:42,361 - INFO - Generating MxbAI embedding for URL 6/39: https://dejan.ai/blog/ilo/
+2025-05-24 14:12:42,907 - INFO - Generating MxbAI embedding for URL 7/39: https://dejan.ai/blog/the-state-of-ai/
+2025-05-24 14:12:43,456 - INFO - Generating MxbAI embedding for URL 8/39: https://dejan.ai/blog/attention-is-all-you-need/
+2025-05-24 14:12:43,998 - INFO - Generating MxbAI embedding for URL 9/39: https://dejan.ai/blog/chrome-ai-models/
+2025-05-24 14:12:44,541 - INFO - Generating MxbAI embedding for URL 10/39: https://dejan.ai/blog/random-numbers/
+2025-05-24 14:12:45,066 - INFO - Generating MxbAI embedding for URL 11/39: https://dejan.ai/blog/transitions/
+2025-05-24 14:12:45,612 - INFO - Generating MxbAI embedding for URL 12/39: https://dejan.ai/blog/site-engagement-metrics/
+2025-05-24 14:12:46,160 - INFO - Generating MxbAI embedding for URL 13/39: https://dejan.ai/blog/introducing-veczip-embedding-compression-algorithm/
+2025-05-24 14:12:46,840 - INFO - Generating MxbAI embedding for URL 14/39: https://dejan.ai/blog/why-deep-learning-works/
+2025-05-24 14:12:47,380 - INFO - Generating MxbAI embedding for URL 15/39: https://dejan.ai/blog/googles-privacy-sandbox-navigating-the-cookieless-future/
+2025-05-24 14:12:47,924 - INFO - Generating MxbAI embedding for URL 16/39: https://dejan.ai/blog/what-does-gemini-think-about-your-brand/
+2025-05-24 14:12:48,454 - INFO - Generating MxbAI embedding for URL 17/39: https://dejan.ai/blog/self-supervised-quantized-representation-for-kg-llm-integration/
+2025-05-24 14:12:49,033 - INFO - Generating MxbAI embedding for URL 18/39: https://dejan.ai/blog/teaching-ai-models-to-be-better-search-engines-a-new-approach-to-training-data/
+2025-05-24 14:12:49,626 - INFO - Generating MxbAI embedding for URL 19/39: https://dejan.ai/blog/beyond-rank-tracking-analyzing-brand-perceptions-through-language-model-association-networks/
+2025-05-24 14:12:50,212 - INFO - Generating MxbAI embedding for URL 20/39: https://dejan.ai/blog/hacking-gemini/
+2025-05-24 14:12:50,797 - INFO - Generating MxbAI embedding for URL 21/39: https://dejan.ai/blog/the-next-chapter-of-search-get-ready-to-influence-the-robots/
+2025-05-24 14:12:51,379 - INFO - Generating MxbAI embedding for URL 22/39: https://dejan.ai/blog/alexnet-the-deep-learning-breakthrough-that-reshaped-googles-ai-strategy/
+2025-05-24 14:12:51,958 - INFO - Generating MxbAI embedding for URL 23/39: https://dejan.ai/blog/strategic-brand-positioning-in-llms-a-methodological-framework-for-prompt-engineering-and-model-behavior-analysis/
+2025-05-24 14:12:52,556 - INFO - Generating MxbAI embedding for URL 24/39: https://dejan.ai/blog/neural-circuit-analysis-framework-for-brand-mention-optimization/
+2025-05-24 14:12:53,247 - INFO - Generating MxbAI embedding for URL 25/39: https://dejan.ai/blog/cross-model-circuit-analysis-gemini-vs-gemma-comparison-framework/
+2025-05-24 14:12:53,790 - INFO - Generating MxbAI embedding for URL 26/39: https://dejan.ai/blog/how-google-decides-when-to-use-gemini-grounding-for-user-queries/
+2025-05-24 14:12:54,328 - INFO - Generating MxbAI embedding for URL 27/39: https://dejan.ai/blog/probability-threshold-for-top-p-nucleus-sampling/
+2025-05-24 14:12:54,867 - INFO - Generating MxbAI embedding for URL 28/39: https://dejan.ai/blog/temperature-parameter-for-controlling-ai-randomness/
+2025-05-24 14:12:55,445 - INFO - Generating MxbAI embedding for URL 29/39: https://dejan.ai/blog/advanced-interpretability-techniques-for-tracing-llm-activations/
+2025-05-24 14:12:56,143 - INFO - Generating MxbAI embedding for URL 30/39: https://dejan.ai/blog/grounding-classifier/
+2025-05-24 14:12:56,826 - INFO - Generating MxbAI embedding for URL 31/39: https://dejan.ai/blog/generate-then-ground/
+2025-05-24 14:12:57,382 - INFO - Generating MxbAI embedding for URL 32/39: https://dejan.ai/blog/ai-content-detection/
+2025-05-24 14:12:57,911 - INFO - Generating MxbAI embedding for URL 33/39: https://dejan.ai/blog/chromes-new-embedding-model/
+2025-05-24 14:12:58,462 - INFO - Generating MxbAI embedding for URL 34/39: https://dejan.ai/blog/content-substance-classification/
+2025-05-24 14:12:59,009 - INFO - Generating MxbAI embedding for URL 35/39: https://dejan.ai/blog/gemini-grounding/
+2025-05-24 14:12:59,585 - INFO - Generating MxbAI embedding for URL 36/39: https://dejan.ai/blog/google-lens-modes/
+2025-05-24 14:13:00,127 - INFO - Generating MxbAI embedding for URL 37/39: https://dejan.ai/blog/llm-search-volume/
+2025-05-24 14:13:00,670 - INFO - Generating MxbAI embedding for URL 38/39: https://dejan.ai/blog/googles-new-url-context-tool/
+2025-05-24 14:13:01,219 - INFO - Generating MxbAI embedding for URL 39/39: https://dejan.ai/blog/live-blog-hacking-gemini-embeddings/
+2025-05-24 14:13:01,899 - INFO - Successfully saved MxbAI embeddings for 39 URLs to C:\projects\gemini\mxbai.csv
+2025-05-24 14:13:01,899 - INFO - Embedding generation process completed
+2025-05-24 14:13:01,899 - INFO - Content saved to: C:\projects\gemini\content.csv
+2025-05-24 14:13:01,899 - INFO - Gemini embeddings saved to: C:\projects\gemini\gemini.csv
+2025-05-24 14:13:01,899 - INFO - MxbAI embeddings saved to: C:\projects\gemini\mxbai.csv
